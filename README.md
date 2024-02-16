@@ -1,7 +1,6 @@
-URL used for using this tool is currently:
-https://skills-sessions.cogrammar.com/dropboxDownloader/
+NO COMMITS TO THIS REPO YET
 
-This may be set to change soon to:
+The URL for this application will be set to:
 https://dropbox-downloader.cogrammar.com
 
 
